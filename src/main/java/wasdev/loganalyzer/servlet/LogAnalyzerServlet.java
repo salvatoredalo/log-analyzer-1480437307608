@@ -1,4 +1,4 @@
-package wasdev.sample.servlet;
+package wasdev.loganalyzer.servlet;
 
 import java.io.IOException;
 
